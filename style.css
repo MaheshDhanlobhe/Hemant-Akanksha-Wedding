@@ -1,0 +1,4 @@
+body{margin:0;font-family:Arial,sans-serif} .hero{height:100vh;background:#5b1421;color:#fff}
+.overlay{height:100%;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.btn{background:gold;color:#000;padding:10px 20px;border-radius:30px;text-decoration:none}
+.content{padding:40px;text-align:center}
